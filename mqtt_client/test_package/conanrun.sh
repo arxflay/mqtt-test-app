@@ -1,0 +1,1 @@
+. "/home/arxflay/it_projects/z2m_testapp/test_package/conanrunenv-release-x86_64.sh"
